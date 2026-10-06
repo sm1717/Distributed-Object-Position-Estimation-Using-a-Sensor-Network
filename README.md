@@ -427,4 +427,4 @@ The full report, with derivations, code and all simulations, is in [`docs/Tesina
 
 ## 👤 Author
 
-**Marco Sciaudone** – MSc in Computer Engineering, *Distributed Control and Cyber-Physical Systems Design* (A.Y. 2025/26)
+**Marco** – MSc in Computer Engineering, *Distributed Control and Cyber-Physical Systems Design* (A.Y. 2025/26)
