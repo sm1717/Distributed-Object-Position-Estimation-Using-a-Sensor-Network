@@ -419,7 +419,7 @@ Drone 2 starts with zero knowledge and, as soon as the consensus starts, its kno
 
 ## 📚 Documentation
 
-The full report, with derivations, code and all simulations, is in [`docs/TesinaMarcoSciaudone.pdf`](docs/TesinaMarcoSciaudone.pdf). The assignment given by the course is in [`docs/Traccia.pdf`](docs/Traccia.pdf).
+The full report, with derivations, code and all simulations, is in [`Project.pdf`](Project.pdf). 
 
 **Keywords:** distributed algorithms · position estimate · consensus · ESP8266 · painlessMesh · MATLAB · Simulink
 
